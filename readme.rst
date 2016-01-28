@@ -1,6 +1,9 @@
 #######################
 Starter Webapp - Quotes
 #######################
+Victor Van
+Sivan Alkalay
+conventions: allman style
 
 This is the starter webapp for Tutorial ci-normal01
 
